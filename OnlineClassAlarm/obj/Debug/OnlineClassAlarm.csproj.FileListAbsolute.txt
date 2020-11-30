@@ -1,0 +1,10 @@
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\bin\Debug\OnlineClassAlarm.exe.config
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\bin\Debug\OnlineClassAlarm.exe
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\bin\Debug\OnlineClassAlarm.pdb
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Debug\OnlineClassAlarm.csprojAssemblyReference.cache
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Debug\OnlineClassAlarm.Form1.resources
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Debug\OnlineClassAlarm.Properties.Resources.resources
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Debug\OnlineClassAlarm.csproj.GenerateResource.cache
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Debug\OnlineClassAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Debug\OnlineClassAlarm.exe
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Debug\OnlineClassAlarm.pdb

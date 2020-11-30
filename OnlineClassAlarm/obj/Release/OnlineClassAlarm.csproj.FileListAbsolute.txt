@@ -1,0 +1,10 @@
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\bin\Release\OnlineClassAlarm.exe.config
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\bin\Release\OnlineClassAlarm.exe
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Release\OnlineClassAlarm.Form1.resources
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Release\OnlineClassAlarm.Properties.Resources.resources
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Release\OnlineClassAlarm.csproj.GenerateResource.cache
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Release\OnlineClassAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Release\OnlineClassAlarm.exe
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Release\OnlineClassAlarm.csprojAssemblyReference.cache
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\bin\Release\MaterialSkin.dll
+C:\Users\Buntu\Desktop\source\OnlineClassAlarm\OnlineClassAlarm\obj\Release\OnlineClassAlarm.csproj.CopyComplete
